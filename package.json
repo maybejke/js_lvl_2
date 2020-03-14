@@ -1,0 +1,24 @@
+{
+  "name": "js_lvl_2",
+  "version": "1.0.0",
+  "description": "test_server",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maybejke/js_lvl_2.git"
+  },
+  "author": "Alexey Rakitin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maybejke/js_lvl_2/issues"
+  },
+  "homepage": "https://github.com/maybejke/js_lvl_2#readme"
+}
